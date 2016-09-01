@@ -1,0 +1,16 @@
+2015-12-11 10:46:05,946 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ooo Using Connection [com.mysql.jdbc.Connection@25bf26fe]
+2015-12-11 10:46:05,947 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ==>  Preparing: INSERT INTO news(title,pub_date,content) VALUES (?,?,?) 
+2015-12-11 10:46:06,012 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ==> Parameters: 欢迎访问www.mldn.cn(String), 2015-12-11 10:46:05.73(Timestamp), 世界和平，大家快乐！(String)
+2015-12-11 10:46:06,014 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - <==    Updates: 1
+2015-12-11 10:47:39,229 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ooo Using Connection [com.mysql.jdbc.Connection@25bf26fe]
+2015-12-11 10:47:39,230 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ==>  Preparing: INSERT INTO news(title,pub_date,content) VALUES (?,?,?) 
+2015-12-11 10:47:39,295 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ==> Parameters: 欢迎访问www.mldn.cn(String), 2015-12-11 10:47:39.012(Timestamp), 世界和平，大家快乐！(String)
+2015-12-11 10:47:39,297 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - <==    Updates: 1
+2016-08-24 20:25:52,893 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ooo Using Connection [com.mysql.jdbc.Connection@17d95a9d]
+2016-08-24 20:25:52,894 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ==>  Preparing: INSERT INTO news(title,pub_date,content) VALUES (?,?,?) 
+2016-08-24 20:25:53,013 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ==> Parameters: 欢迎访问www.mldn.cn(String), 2016-08-24 20:25:52.104(Timestamp), 世界和平，大家快乐！ - 1472041552102(String)
+2016-08-24 20:25:53,015 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - <==    Updates: 1
+2016-08-24 20:28:45,949 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ooo Using Connection [com.mysql.jdbc.Connection@64cf020d]
+2016-08-24 20:28:45,950 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ==>  Preparing: INSERT INTO news(title,pub_date,content) VALUES (?,?,?) 
+2016-08-24 20:28:46,067 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - ==> Parameters: 欢迎访问www.mldn.cn(String), 2016-08-24 20:28:45.654(Timestamp), 世界和平，大家快乐！(String)
+2016-08-24 20:28:46,069 DEBUG [cn.mldn.vo.mapping.NewsNS.doCreate] - <==    Updates: 1
