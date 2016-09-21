@@ -1,3 +1,8 @@
+/**
+ * 快速排序
+ * @author Administrator
+ *
+ */
 public class TestDemo {
 	public static void main(String[] args) {
 		int[] nums ={2,3,67,345,212,8,12,12,12,12,12};

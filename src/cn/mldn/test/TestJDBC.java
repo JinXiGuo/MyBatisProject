@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
+import java.util.Arrays;
 
 public class TestJDBC {
 	public static void main(String[] args) throws Exception {
@@ -25,5 +26,7 @@ public class TestJDBC {
 		rs.close();
 		stmt.close();
 		conn.close();
+
 	}
+
 }
